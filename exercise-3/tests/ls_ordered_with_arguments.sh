@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-echo ls -Rahl $0
+echo $(ls -Rahl) $1
 exit 2
