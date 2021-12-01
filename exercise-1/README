@@ -1,0 +1,5 @@
+Pour cet exo, on à utiliser les argument suivant de la commande ls :
+  -R pour l'option récursive
+  -l pour lister en format long
+  -h pour pouvoir lire la sortie
+  -a pour afficher les fichier cacher
