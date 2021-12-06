@@ -1,0 +1,1 @@
+Pour cet exo, j'ai utiliser le format if/then pour les conditions suivantes (si pas de firstname/lastname et si 3ème argument). La difficulté que j'ai rencontré était au niveau de la détéction du 3ème argument en faisant un ! -z. 
