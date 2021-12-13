@@ -1,1 +1,2 @@
-#!/usr/bin/env_bash	
+#!/bin/bash
+ls -l -S
