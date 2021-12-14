@@ -8,6 +8,6 @@ then
   echo "Firstname and lastname cannot be the same!"
   exit 2
 else
-  echo "Hello $1 $2 have a nice day!."
+  echo "Hello $1 $2, have a nice day!"
   exit 0
 fi
