@@ -9,4 +9,5 @@ touch -a documents/work/plannings/april.xlsx
 touch -a documents/work/plannings/february.xlsx
 touch -a documents/work/plannings/january.xlsx
 touch -a documents/work/plannings/march.xlsx
-touch meeting_notes.txt
+touch -a meeting_notes.txt
+exit 0
